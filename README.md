@@ -73,7 +73,7 @@ A função otimizada é significativamente mais eficiente devido ao uso do `spli
 | Facilidade de manutenção | Simples, mas menos elegante        | Mais intuitiva e escalável           |
 
 ### Resultados de Desempenho
-Nos testes realizados, a função otimizada demonstrou uma **melhora significativa no tempo de execução** em comparação com a função original, especialmente ao aumentar o número de execuções. Em termos de tempo médio por execução, a função otimizada apresenta uma redução no uso computacional em até **X%** (valor real depende de testes específicos).
+Nos testes realizados, a função otimizada demonstrou uma **melhora significativa no tempo de execução** em comparação com a função original, especialmente ao aumentar o número de execuções.
 
 ---
 
